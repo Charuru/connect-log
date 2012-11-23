@@ -1,0 +1,9 @@
+{
+  "name": "connect-log",
+  "description": "Enable logging with connect.",
+  "homepage": "https://github.com/Charuru/connect-log",
+  "author": "Charles Ru <charuru2009@gmail.com>",
+  "version": "1.0.0",
+  "git": "https://github.com/Charuru/connect-log.git",
+  "packages": {}
+}
